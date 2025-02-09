@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Running the Application
 Execute the following command in the project directory:
 ```bash
-streamlit run app.py
+streamlit run stream_lit_emotion.py
 ```
 
 This will start a **local web application**, where you can enable your webcam and see real-time emotion predictions.
@@ -77,7 +77,7 @@ Check if `emotion_model_1000.keras` is in the project directory.
 
 ### Streamlit Not Found Error
 Ensure you have installed all dependencies using:
-```bash
+```bash 
 pip install -r requirements.txt
 ```
 
