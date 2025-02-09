@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/emotion-recognition.git
+git clone https://github.com/Kartik-Ambekar/emotion-recognition.git
 cd emotion-recognition
 ```
 
